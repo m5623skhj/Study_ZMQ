@@ -11,5 +11,5 @@ if "%OS%"=="Windows_NT" (
 )
 
 echo.
-echo "Build completed"
+echo Build completed
 pause
