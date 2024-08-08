@@ -1,0 +1,7 @@
+기능 및 장점이 잘 정리돼 있어서 추가함
+https://github.com/m5623skhj/Study_ZMQ.git
+
+보안
+http://curvezmq.org/page:read-the-docs(공식)
+http://hintjens.com/blog:48(1부)
+http://hintjens.com/blog:49(2부)
